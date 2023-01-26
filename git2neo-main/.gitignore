@@ -1,0 +1,8 @@
+*/__pycache__/
+*.py[cod]
+*$py.class
+data
+*.pyc
+*.idea
+
+private_config.py
